@@ -1,5 +1,5 @@
-import React from "react"
-import "./Menu-item.scss"
+import React from "react";
+import "./Menu-item.scss";
 import { withRouter } from "react-router-dom"
 
 
